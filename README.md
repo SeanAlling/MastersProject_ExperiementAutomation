@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/283440255.svg)](https://zenodo.org/badge/latestdoi/283440255)
+
+
 # Overview
 
 The following project contains scripts for generating an executable to be loaded onto the target system along with a set of python scrips. The python scripts allow gully autonomous experimentation and data collection.
